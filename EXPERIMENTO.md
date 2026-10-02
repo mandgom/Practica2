@@ -24,3 +24,4 @@ Basicamente la diferencia principal que he visto es a quien le afecta:
 ## 3. Capturas de pantalla
 
 ![gitignore](<imagen/imagen1.png>)
+![gitignore2](<imagen/imagen2.png>)
